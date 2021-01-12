@@ -36,3 +36,11 @@ Intermediate level
 
 
 
+6. Classic Pong game:
+
+
+![image](https://user-images.githubusercontent.com/52498280/104284434-bbd9bc00-54fd-11eb-8e6a-67baf4334db6.png)
+![image](https://user-images.githubusercontent.com/52498280/104284441-be3c1600-54fd-11eb-9dc4-31b87faf5994.png)
+
+
+

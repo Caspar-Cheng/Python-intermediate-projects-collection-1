@@ -51,3 +51,11 @@ Intermediate level
 ![image](https://user-images.githubusercontent.com/52498280/104407906-7628fc00-55ae-11eb-9be2-a66e62c267de.png)
 ![image](https://user-images.githubusercontent.com/52498280/104407908-788b5600-55ae-11eb-830f-775ae34d76c7.png)
 
+
+8. Upgraded Snake Game with highest score record:
+
+
+![image](https://user-images.githubusercontent.com/52498280/104537219-44bf3780-5665-11eb-80c2-75232bec8c56.png)
+
+
+

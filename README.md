@@ -24,9 +24,7 @@ This collection of projects are OOP(object oriented programming)based, practiced
 4. Turtles racing game:
 
 
-<img width="493" alt="Screen Shot 2021-01-09 at 12 19 32 pm" src="https://user-images.githubusercontent.com/52498280/104080723-8458de80-5275-11eb-92e5-ca696e4555c8.png">
-<img width="490" alt="Screen Shot 2021-01-09 at 12 19 42 pm" src="https://user-images.githubusercontent.com/52498280/104080725-858a0b80-5275-11eb-9afd-79716bdb267b.png">
-<img width="920" alt="Screen Shot 2021-01-09 at 12 19 03 pm" src="https://user-images.githubusercontent.com/52498280/104080760-b23e2300-5275-11eb-9983-f06fd27671dc.png">
+![turtle racing game](https://user-images.githubusercontent.com/52498280/104810946-d7b5c880-5843-11eb-992d-87d7f436324f.gif)
 
 
 

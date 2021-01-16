@@ -75,4 +75,3 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
-https://user-images.githubusercontent.com/52498280/104810581-49d8de00-5841-11eb-872b-12a998e9dc5a.mov

@@ -28,6 +28,10 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
+<gif-player src="https://user-images.githubusercontent.com/52498280/104810946-d7b5c880-5843-11eb-992d-87d7f436324f.gif">
+
+
+
 5. Classic Snake Game: 
 
 

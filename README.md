@@ -28,9 +28,6 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
-![turtle racing game](https://user-images.githubusercontent.com/52498280/104811233-e43b2080-5845-11eb-93aa-851ae90c693f.gif)
-
-
 5. Classic Snake Game: 
 
 

@@ -70,3 +70,10 @@ This collection of projects are OOP(object oriented programming)based, practiced
 
 
 
+11. GUI tkinter practice project, create a window GUI to convert miles to Kms:
+
+
+![GUI Miles to Km Converter project](https://user-images.githubusercontent.com/52498280/104838329-12803500-5906-11eb-89ec-d02d86d65b93.gif)
+
+
+

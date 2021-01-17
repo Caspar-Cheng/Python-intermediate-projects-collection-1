@@ -52,7 +52,7 @@ This collection of projects are OOP(object oriented programming)based, practiced
 8. Upgraded Snake Game with highest score record:
 
 
-![image](https://user-images.githubusercontent.com/52498280/104537219-44bf3780-5665-11eb-80c2-75232bec8c56.png)
+![Snake Game with High Score Record](https://user-images.githubusercontent.com/52498280/104828995-df648400-58ba-11eb-85d5-63925c2fe875.gif)
 
 
 

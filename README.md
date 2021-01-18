@@ -1,7 +1,13 @@
 # Python-intermediate-projects-practice-collection
 Intermediate level
 
-This collection of projects are OOP(object oriented programming)based, practiced on making higher quality and reusable codes. Mainly used: turtle module in Python; list and dictionary comprehension; 
+This collection of projects are OOP(object oriented programming)based, practiced on making higher quality and reusable codes. 
+Mainly used: 
+-- turtle module in Python; 
+-- list and dictionary comprehension; 
+-- Tkinter to build GUI(Graphical User Interface)
+
+
 
 
 1. Quiz game: 

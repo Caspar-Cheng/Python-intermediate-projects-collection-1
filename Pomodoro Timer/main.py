@@ -48,7 +48,7 @@ def start_timer():
         count_down(long_break_sec)
         timer_label.config(text="Break!", fg=RED)
     elif reps % 2 == 0:
-        tkinter.messagebox.showinfo(title="Work", message="Take a small break~")
+        tkinter.messagebox.showinfo(title="Break", message="Take a small break~")
         count_down(short_break_sec)
         timer_label.config(text="Break~", fg=PINK)
     else:

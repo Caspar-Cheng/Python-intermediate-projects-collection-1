@@ -9,7 +9,7 @@ RED = "#e7305b"
 GREEN = "#9bdeac"
 YELLOW = "#f7f5dd"
 FONT_NAME = "Courier"
-WORK_MIN = 1
+WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 reps = 0
@@ -18,10 +18,13 @@ timer = None
 
 # TIMER RESET
 def reset_timer():
+    # set button state 
     start_button.config(state="normal")
     reset_button.config(state="disabled")
+    # set reps to recount after click reset button
     global reps
-    reps = 0
+    reps = 0   
+    
     window.after_cancel(timer)
     canvas.itemconfig(timer_text, text="00:00")
     timer_label.config(text="Timer", fg=GREEN)
@@ -32,6 +35,7 @@ def reset_timer():
 def start_timer():
     start_button.config(state="disabled")
     reset_button.config(state="normal")
+    # loop reps to +1 each time after previous timer is finished
     global reps
     reps += 1
     work_sec = WORK_MIN * 60
@@ -39,6 +43,7 @@ def start_timer():
     long_break_sec = LONG_BREAK_MIN * 60
 
     if reps % 8 == 0:
+        # provide pop up info to user
         tkinter.messagebox.showinfo(title="Break", message="Have a long break~")
         count_down(long_break_sec)
         timer_label.config(text="Break!", fg=RED)
@@ -72,7 +77,7 @@ def count_down(count):
         check_label.config(text=marks)
 
 
-# UI SETUP
+# UI SETUP, layouts should all set between window and window.mainloop()
 window = Tk()
 window.title("Pomodoro")
 window.config(padx=100, pady=50, bg=YELLOW)

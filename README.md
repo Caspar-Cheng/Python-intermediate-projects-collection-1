@@ -90,3 +90,10 @@ Mainly used:
 
 
 
+13. Password Manager: enter the website and email, and generate random password for user, those details will be added inside particular local .txt document. Generated password is ready to be pasted when it comes out after clicking generate buttom.
+
+
+
+![Password Manager](https://user-images.githubusercontent.com/52498280/104884442-17022780-59b2-11eb-9b3c-0cadd8bf167d.gif)
+
+

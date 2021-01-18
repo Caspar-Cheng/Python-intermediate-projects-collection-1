@@ -83,3 +83,10 @@ Mainly used:
 
 
 
+12. Pomodoro Timer: set to automatically timer from work 25mins, break 5mins, after four round of this to have a long break 20mins. Demo gif begin with the end of the work timer to show it's pop up info and functions.
+
+
+![Pomodoro Timer](https://user-images.githubusercontent.com/52498280/104876480-7efd4180-59a3-11eb-88de-09a5e01fe4f7.gif)
+
+
+

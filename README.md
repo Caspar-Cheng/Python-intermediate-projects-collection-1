@@ -97,3 +97,11 @@ Mainly used:
 ![Password Manager](https://user-images.githubusercontent.com/52498280/104884442-17022780-59b2-11eb-9b3c-0cadd8bf167d.gif)
 
 
+
+14. Upgraded Password Manager: upgrad it with .json file instead of .txt file, added search previous website history function and return the record to user.
+
+
+![upgraded password manager](https://user-images.githubusercontent.com/52498280/105002497-1edace00-5a7d-11eb-8628-39b92f34e75f.gif)
+
+
+

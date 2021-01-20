@@ -93,7 +93,6 @@ Mainly used:
 13. Password Manager: enter the website and email, and generate random password for user, those details will be added inside particular local .txt document. Generated password is ready to be pasted when it comes out after clicking generate buttom.
 
 
-
 ![Password Manager](https://user-images.githubusercontent.com/52498280/104884442-17022780-59b2-11eb-9b3c-0cadd8bf167d.gif)
 
 
@@ -102,6 +101,13 @@ Mainly used:
 
 
 ![upgraded password manager](https://user-images.githubusercontent.com/52498280/105002497-1edace00-5a7d-11eb-8628-39b92f34e75f.gif)
+
+
+
+15. Flash word card project: learn the word translated between French and English, the card will be automatically flipped to English meaning card after 3 secs; click wrong button to skip the card, click right button to delete card from current data dict file and save into a new .csv document as "words_to_learn.csv"; start the project by searching "words_to_learn.csv" and pick word card from this data file, if this file is not exist, start the project with the original "french_words.csv".
+
+
+![flash word cards](https://user-images.githubusercontent.com/52498280/105151238-764a6e00-5b51-11eb-96d0-bd12033ba4a6.gif)
 
 
 
